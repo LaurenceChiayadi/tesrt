@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e)#we9tew23b!dz)3oc_(d8ibc6e)&)p%pybxyu210c5bvl-oq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-react-django-test.azurewebsites.net']
 
 
 # Application definition
