@@ -55,7 +55,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
-    'https://react-todo-app.azurewebsites.net/',
+    'https://react-todo-app.azurewebsites.net',
 ]
 
 ROOT_URLCONF = 'backend.urls'
